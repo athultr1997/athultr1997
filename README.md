@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi👋, I'am Athul T R!
+
+## About Me
+I am a Software Engineer interested in Distributed Systems. I like working with open source projects. I work professionally as a backend, data, and/or DevOps roles.
+
+## Contact
+[![Twitter Badge](https://img.shields.io/badge/-@AthulTR4-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AthulTR4 "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-athultr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/athultr/)](https://www.linkedin.com/in/athultr/)
 
 <!--
 **athultr1997/athultr1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
